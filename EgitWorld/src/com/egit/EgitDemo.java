@@ -6,6 +6,7 @@ public class EgitDemo {
 		
 		//comment added in EgitDemo jj
 		System.out.println("Egit Demo");
+		System.out.println("Egit Demo");
 		
 	}
 
