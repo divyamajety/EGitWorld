@@ -4,10 +4,8 @@ public class EgitDemo {
 	
 	public static void main(String[] args) {
 		
-		//comment added in EgitDemo jj
+		//comment added
 		System.out.println("Egit Demo");
-		System.out.println("Egit Demo");
-		
 	}
 
 }
