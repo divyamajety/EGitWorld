@@ -6,6 +6,8 @@ public class GithubDemo {
 	
 		System.out.println("In Github Demo" + "made change");
 		System.out.println("new line added");	
+		
+		int x=10;
 
 	}
 
